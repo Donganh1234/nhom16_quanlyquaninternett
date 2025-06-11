@@ -2,9 +2,16 @@
 <KhachHangList>
     <KhachHang>
         <MaKhachHang>1</MaKhachHang>
-        <TenKhachHang>Vũ Quang Anh</TenKhachHang>
-        <SoDienThoai>0886718203</SoDienThoai>
-        <Email>vuquanganh1802@gmail.com</Email>
+        <TenKhachHang>Đồng Thị Ánh</TenKhachHang>
+        <SoDienThoai>0123578987</SoDienThoai>
+        <Email>donganh41105@gmail.com</Email>
         <DiemTichLuy>0</DiemTichLuy>
+    </KhachHang>
+    <KhachHang>
+        <MaKhachHang>2</MaKhachHang>
+        <TenKhachHang>Nguyễn Minh Phương</TenKhachHang>
+        <SoDienThoai>0834926667</SoDienThoai>
+        <Email>minhphuong0705@gmail.com</Email>
+        <DiemTichLuy>40582</DiemTichLuy>
     </KhachHang>
 </KhachHangList>
